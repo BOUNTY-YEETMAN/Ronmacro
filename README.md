@@ -1,0 +1,1 @@
+The macro version is 1.00, please do not use this outside of rise of nations macro. Everything is open source so you may recode this! (please give credit) Press F4 to activate the macro and F3 to show cordinates -(this is for development reasons other than that ignore it)

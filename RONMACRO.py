@@ -109,6 +109,7 @@ elif country.lower()=='fun':
     democountries_list = list(democountries)
     randomcountry = random.choice(democountries_list)
     country=randomcountry
+    print(randomcountry)
     
 
     if ideology == 'communist':
@@ -118,6 +119,7 @@ elif country.lower()=='fun':
     communistCountries_list = list(communistCountries)
     randomcountry1 = random.choice(communistCountries_list)
     country=randomcountry1
+    print(randomcountry1)
 
 
 
